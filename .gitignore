@@ -1,0 +1,5 @@
+git inint
+create .gitignore file
+add *.class in .gitignore file and save
+git add .
+git commit -m "your message"
